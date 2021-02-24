@@ -58,7 +58,7 @@ Allegheny's honor code for all submitted work.
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for deadlines.
+    * Turn in work past
 
 #### Communication
 
