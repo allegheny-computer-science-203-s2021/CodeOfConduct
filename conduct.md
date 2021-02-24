@@ -70,6 +70,7 @@ This section defines what communication is acceptable and unacceptable. It is vi
     * Use appropriate softwares for electronic communication.
     * Always participate in the discussion.
     * :heavy_exclamation_mark: TODO: add any additional items in the A category for communication.
+    * Listen to and consider ideas presented by others.
 
 * Unacceptable Conduct (U):
   * Members shall not
