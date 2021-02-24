@@ -121,6 +121,7 @@ how long a decision will take to implement.
       share their opinion.
     * Defer to the Professor or Technical Leaders when unsure about tasks or implementation.
     * Use efficient communication within and outside of teams
+    * Stay respectful and openminded when discussing decisions and ideas.
 
 * Unacceptable Conduct (U):
   * Members shall not
