@@ -88,10 +88,10 @@ Every team member needs to be actively and cooperatively involved with the proje
 * Acceptable Conduct (A):
   * Members shall
     * Value and consider everyone’s opinion.
-    * Approach issues and team members with professionalism.
+    * Approach issues and team members with professionalism. (Specifically, using "I" statements.)
     * Demonstrate continuous engagement with tasks.
     * Raise a disagreeing opinion in a respectful manner.
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for participation.
+    * Respond to ideas, not the person presenting them.
 
 * Unacceptable Conduct (U):
   * Members shall not
