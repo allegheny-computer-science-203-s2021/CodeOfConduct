@@ -92,6 +92,7 @@ Every team member needs to be actively and cooperatively involved with the proje
     * Demonstrate continuous engagement with tasks.
     * Raise a disagreeing opinion in a respectful manner.
     * Respond to ideas, not the person presenting them.
+    * listen and understand what they are trying to communicate.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -99,7 +100,7 @@ Every team member needs to be actively and cooperatively involved with the proje
     * Have an inappropriate professional boundary with team members.
     * Show poor participation and attitude to their delegated tasks.
     * Showing up extremely late or not showing up for group meeting without prior notice.
-
+    * communicate their availability to work as a team inefficiently.
 ### Decisions
 
 The majority of individuals in a team should agree on a given decision before the
