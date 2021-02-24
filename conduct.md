@@ -53,7 +53,7 @@ Allegheny's honor code for all submitted work.
 
 * Acceptable Conduct (A):
   * Members shall
-    * Turn assignments in on the due date
+    * Turn assignments in on the due date, by the time set by JJ.
 
 * Unacceptable Conduct (U):
   * Members shall not
