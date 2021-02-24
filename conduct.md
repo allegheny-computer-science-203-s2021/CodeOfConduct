@@ -149,8 +149,9 @@ provide great insight in how to improve in future projects.
     * Blame other members for any issues with the final product.
     * Refuse to collaborate in fixing remaining issues while a project or lab has not been completed.
     * Single out specific team members when discussing the results of a project or a lab.
-    * Be disrespectful to other team members in relation to the results of the project.
+    * Make fun of or belittle people's inputs/contributions
     * :heavy_exclamation_mark: TODO: add any additional items in the U category for the postmortems.
+    
 
 ### Conflicts
 
