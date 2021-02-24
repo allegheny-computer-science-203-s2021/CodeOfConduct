@@ -214,3 +214,4 @@ Any decision made by the instructor for the given infraction(s) will be final.
 Janyl Jumadinova
 :heavy_exclamation_mark: TODO: Add your name
 Bennett Westfall
+Zackery Devers
