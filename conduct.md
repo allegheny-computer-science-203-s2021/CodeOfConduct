@@ -124,6 +124,7 @@ how long a decision will take to implement.
     * Communicate with the appropriate team member about any changes that is needed to be done to any project.
     * Use efficient communication within and outside of teams
     * Stay respectful and openminded when discussing decisions and ideas.
+    * Communicate with the appropriate team member about any changes that is needed to be done to any project.
 
 * Unacceptable Conduct (U):
   * Members shall not
