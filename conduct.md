@@ -135,6 +135,7 @@ how long a decision will take to implement.
     * Refuse to actively participate in group discussions or breakout rooms.
     * Deploy any kind of decision that's against codes of ethic
     * Mock a team member's decision
+    * Refuse to fix any bugs or technical issues in the project.
 
 ### Postmortems
 
