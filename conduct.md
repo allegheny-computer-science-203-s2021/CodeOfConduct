@@ -96,9 +96,9 @@ Every team member needs to be actively and cooperatively involved with the proje
 * Unacceptable Conduct (U):
   * Members shall not
     * Demonstrate disrespect for team members.
-    * Have an inappropriate professional boundary with team members.
+    * Violate the professional boundaries of team members or classmates whether those boundries be *ibnlt* personal, professional, emotional, or ideological.
     * Show poor participation and attitude to their delegated tasks.
-    * have poor communication skills when discussing project work and group work.
+    * Showing up extremely late or not showing up for group meeting without prior notice.
 
 ### Decisions
 
@@ -214,4 +214,5 @@ Any decision made by the instructor for the given infraction(s) will be final.
 Janyl Jumadinova
 :heavy_exclamation_mark: TODO: Add your name
 Bennett Westfall
-Zackery
+Zackery Devers
+Natnael Kahesay
