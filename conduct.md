@@ -45,7 +45,10 @@ Allegheny's honor code for all submitted work.
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: TODO: add items in the A category for attendance.
+    * Make every effort to be present in one capacity or another in every class
+    * Arrive to class on time
+    * Communicate with the professor beforehand in the event a class must be missed
+    * Communicate with teammates beforehand in the event a class must be missed
 
 * Unacceptable Conduct (U):
   * Members shall not
