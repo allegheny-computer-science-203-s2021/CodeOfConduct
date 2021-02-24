@@ -124,8 +124,7 @@ how long a decision will take to implement.
     * Make decisions without finding evidence showing that it would likely be beneficial.
     * Refuse to work on the decided option.
     * Make decisions that would affect another team without first notifying them.
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team.
-
+    * Refuse to actively participate in group discussions or breakout rooms.
 ### Postmortems
 
 Postmortems are great ways of looking at and analyzing the performance of
