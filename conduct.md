@@ -147,6 +147,7 @@ provide great insight in how to improve in future projects.
     * Insult others while presenting criticism.
     * Blame other members for any issues with the final product.
     * Refuse to collaborate in fixing remaining issues while a project or lab has not been completed.
+    * Single out specific team members when discussing the results of a project or a lab.
     * :heavy_exclamation_mark: TODO: add any additional items in the U category for the postmortems.
 
 ### Conflicts
