@@ -117,6 +117,7 @@ how long a decision will take to implement.
     * When a choice is disputed, use Github issue tracker and let team members
       share their opinion.
     * Defer to the Professor or Technical Leaders when unsure about tasks or implementation.
+    * Use efficient communication within and outside of teams
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -125,6 +126,8 @@ how long a decision will take to implement.
     * Refuse to work on the decided option.
     * Make decisions that would affect another team without first notifying them.
     * Refuse to actively participate in group discussions or breakout rooms.
+    * Deploy any kind of decision that's against codes of ethic
+
 ### Postmortems
 
 Postmortems are great ways of looking at and analyzing the performance of
