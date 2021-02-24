@@ -73,7 +73,7 @@ This section defines what communication is acceptable and unacceptable. It is vi
   * Members shall not
     * Frequently use inappropriate forums such as text messaging or using Slack instead of GitHub issues tracker.
     * Rarely engage in the discussion.
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for communication.
+    * Use communication platforms inappropriately.
 
 ## Team Work
 
