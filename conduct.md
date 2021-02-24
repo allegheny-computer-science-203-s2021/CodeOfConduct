@@ -215,3 +215,4 @@ Janyl Jumadinova
 :heavy_exclamation_mark: TODO: Add your name
 Bennett Westfall
 Zackery
+Gary Chen
