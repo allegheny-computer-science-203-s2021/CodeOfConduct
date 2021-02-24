@@ -122,6 +122,8 @@ how long a decision will take to implement.
     * Defer to the Professor or Technical Leaders when unsure about tasks or implementation.
     * Use efficient communication within and outside of teams.
     * Communicate with the appropriate team member about any changes that is needed to be done to any project.
+    * Use efficient communication within and outside of teams
+    * Stay respectful and openminded when discussing decisions and ideas.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -220,3 +222,4 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 Janyl Jumadinova
 :heavy_exclamation_mark: TODO: Add your name
+>>>>>>> before discard
