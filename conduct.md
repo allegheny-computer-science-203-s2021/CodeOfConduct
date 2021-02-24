@@ -98,7 +98,7 @@ Every team member needs to be actively and cooperatively involved with the proje
     * Demonstrate disrespect for team members.
     * Have an inappropriate professional boundary with team members.
     * Show poor participation and attitude to their delegated tasks.
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for participation.
+    * Showing up extremely late or not showing up for group meeting without prior notice.
 
 ### Decisions
 
@@ -215,3 +215,4 @@ Janyl Jumadinova
 :heavy_exclamation_mark: TODO: Add your name
 Bennett Westfall
 Zackery Devers
+Natnael Kahesay
