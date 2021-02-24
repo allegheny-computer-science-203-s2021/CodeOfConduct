@@ -170,7 +170,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Encourage or engage in conflicts that undermine the code of conduct.
     * Escalate existing conflicts that jeopardize the group project.
     * Disregard or refuse to resolve an existing conflict that has been brought to their attention.
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the conflicts.
+    * :heavy_exclamation_mark: Spreading the conflict to outside of the group and into the class sessions. 
 
 ## Infractions
 
@@ -212,4 +212,4 @@ Any decision made by the instructor for the given infraction(s) will be final.
 ## Names of Individuals who Agree to Adhere to the Guide
 
 Janyl Jumadinova
-:heavy_exclamation_mark: TODO: Add your name
+:heavy_exclamation_mark: Lex Caldwell
