@@ -67,13 +67,18 @@ This section defines what communication is acceptable and unacceptable. It is vi
   * Members shall
     * Use appropriate softwares for electronic communication.
     * Always participate in the discussion.
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for communication.
+    * Keep all communication respectful
+    * Regularly communicate questions and issues with the class
+    * Avoid speaking over other people
+    * Give and accept constructive criticism
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Frequently use inappropriate forums such as text messaging or using Slack instead of GitHub issues tracker.
     * Rarely engage in the discussion.
     * Use communication platforms inappropriately.
+    * Make fun of other peoples contributions.
+    * Attend lab sessions and meetings without appropriate electronic communication devices.
 
 ## Team Work
 
