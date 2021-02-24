@@ -55,6 +55,7 @@ Allegheny's honor code for all submitted work.
 * Acceptable Conduct (A):
   * Members shall
     * :heavy_exclamation_mark: TODO: add items in the A category for deadlines.
+    * Watch the course website and Slack workspace for changes to due dates.
 
 * Unacceptable Conduct (U):
   * Members shall not
