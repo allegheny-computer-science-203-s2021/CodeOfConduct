@@ -37,7 +37,8 @@ Allegheny's honor code for all submitted work.
     * Prevent peers from voicing their opinions and questions.
     * Violate any part of this Code of Conduct.
     * Violate the Allegheny honor code in regards to all submitted work.
-    * Be rude to members when introducting criticism.
+    * Be rude to team members when introducting criticism.
+	* Threaten other class members for any reason.
 
 #### Attendance
 
