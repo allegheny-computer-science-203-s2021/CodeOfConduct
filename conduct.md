@@ -44,6 +44,7 @@ Allegheny's honor code for all submitted work.
 * Acceptable Conduct (A):
   * Members shall
     * :heavy_exclamation_mark: TODO: add items in the A category for attendance.
+    * Arrive to class in a timely manner
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -54,6 +55,7 @@ Allegheny's honor code for all submitted work.
 * Acceptable Conduct (A):
   * Members shall
     * :heavy_exclamation_mark: TODO: add items in the A category for deadlines.
+    * Watch the course website and Slack workspace for changes to due dates.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -68,6 +70,7 @@ This section defines what communication is acceptable and unacceptable. It is vi
     * Use appropriate softwares for electronic communication.
     * Always participate in the discussion.
     * :heavy_exclamation_mark: TODO: add any additional items in the A category for communication.
+    * Listen to and consider ideas presented by others.
 
 * Unacceptable Conduct (U):
   * Members shall not
