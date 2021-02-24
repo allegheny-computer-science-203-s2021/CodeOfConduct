@@ -163,14 +163,14 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     compromise between class members involved.
     * Project managers may reassign different tasks to group members to solve a conflict.
     * The course instructor has a final say in how severe conflicts should be resolved.
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the conflicts.
+    * Establish a clear line of communication with other members before conflicts are brought to technical leaders or the instructor
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Encourage or engage in conflicts that undermine the code of conduct.
     * Escalate existing conflicts that jeopardize the group project.
     * Disregard or refuse to resolve an existing conflict that has been brought to their attention.
-    * :heavy_exclamation_mark: Spreading the conflict to outside of the group and into the class sessions. 
+    * :heavy_exclamation_mark: Spreading the conflict to outside of the group and into the class sessions.
 
 ## Infractions
 
