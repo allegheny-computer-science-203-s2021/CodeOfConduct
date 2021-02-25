@@ -120,7 +120,7 @@ how long a decision will take to implement.
     * When a choice is disputed, use Github issue tracker and let team members
       share their opinion.
     * Defer to the Professor or Technical Leaders when unsure about tasks or implementation.
-    * Use efficient communication within and outside of teams.
+    * Use efficient communication within and outside of teams, where ideas are clearly expressed in the shortest possible timeframe.
     * Communicate with the appropriate team member about any changes that is needed to be done to any project.
     * Stay respectful and open-minded when discussing decisions and ideas.
 
