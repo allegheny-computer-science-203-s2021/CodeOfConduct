@@ -122,9 +122,7 @@ how long a decision will take to implement.
     * Defer to the Professor or Technical Leaders when unsure about tasks or implementation.
     * Use efficient communication within and outside of teams.
     * Communicate with the appropriate team member about any changes that is needed to be done to any project.
-    * Use efficient communication within and outside of teams
-    * Stay respectful and openminded when discussing decisions and ideas.
-    * Communicate with the appropriate team member about any changes that is needed to be done to any project.
+    * Stay respectful and open-minded when discussing decisions and ideas.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -133,9 +131,9 @@ how long a decision will take to implement.
     * Refuse to work on the decided option.
     * Make decisions that would affect another team without first notifying them.
     * Refuse to actively participate in group discussions or breakout rooms.
-    * Deploy any kind of decision that's against codes of ethic
-    * Mock a team member's decision
-    * Refuse to fix any bugs or technical issues in the project.
+    * Deploy any kind of decision that's against codes of ethic.
+    * Mock a team member's decision.
+    * Refuse to do any assigned work in general.
 
 ### Postmortems
 
@@ -222,8 +220,6 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-Janyl Jumadinova
 :heavy_exclamation_mark: TODO: Add your name
-
-Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White
+Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White
 
