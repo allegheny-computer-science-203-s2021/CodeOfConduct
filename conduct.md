@@ -131,7 +131,7 @@ how long a decision will take to implement.
     * Refuse to work on the decided option.
     * Make decisions that would affect another team without first notifying them.
     * Refuse to actively participate in group discussions or breakout rooms.
-    * Deploy any kind of decision that's against codes of ethic.
+    * Deploy any kind of decision that is against codes of ethic.
     * Mock a team member's decision.
     * Refuse to do any assigned work in general.
 
