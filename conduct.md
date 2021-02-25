@@ -43,8 +43,8 @@ Allegheny's honor code for all submitted work.
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: TODO: add items in the A category for attendance.
     * Arrive to class in a timely manner
+    * :heavy_exclamation_mark: TODO: add items in the A category for attendance.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -54,8 +54,8 @@ Allegheny's honor code for all submitted work.
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: TODO: add items in the A category for deadlines.
     * Watch the course website and Slack workspace for changes to due dates.
+    * :heavy_exclamation_mark: TODO: add items in the A category for deadlines.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -69,8 +69,8 @@ This section defines what communication is acceptable and unacceptable. It is vi
   * Members shall
     * Use appropriate softwares for electronic communication.
     * Always participate in the discussion.
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for communication.
     * Listen to and consider ideas presented by others.
+    * :heavy_exclamation_mark: TODO: add any additional items in the A category for communication.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -225,13 +225,5 @@ Any decision made by the instructor for the given infraction(s) will be final.
 Janyl Jumadinova
 :heavy_exclamation_mark: TODO: Add your name
 
-=======
-Bennett Westfall
-Zackery Devers
-Natnael Kahesay
-Kobe Coleman
-Adriana Solis
-Favour Ojo
-Kai'lani Woodward
-Zoe White
+Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White
 
