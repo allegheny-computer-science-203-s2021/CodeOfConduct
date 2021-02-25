@@ -91,17 +91,17 @@ Every team member needs to be actively and cooperatively involved with the proje
 * Acceptable Conduct (A):
   * Members shall
     * Value and consider everyone’s opinion.
-    * Approach issues and team members with professionalism.
+    * Approach issues and team members with professionalism. (Specifically, using "I" statements.)
     * Demonstrate continuous engagement with tasks.
     * Raise a disagreeing opinion in a respectful manner.
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for participation.
+    * Respond to ideas, not the person presenting them.
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Demonstrate disrespect for team members.
     * Have an inappropriate professional boundary with team members.
     * Show poor participation and attitude to their delegated tasks.
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for participation.
+    * Showing up extremely late or not showing up for group meeting without prior notice.
 
 ### Decisions
 
@@ -224,4 +224,14 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 Janyl Jumadinova
 :heavy_exclamation_mark: TODO: Add your name
->>>>>>> before discard
+
+=======
+Bennett Westfall
+Zackery Devers
+Natnael Kahesay
+Kobe Coleman
+Adriana Solis
+Favour Ojo
+Kai'lani Woodward
+Zoe White
+
