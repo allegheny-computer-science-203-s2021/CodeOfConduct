@@ -43,6 +43,7 @@ Allegheny's honor code for all submitted work.
 
 * Acceptable Conduct (A):
   * Members shall
+    * Arrive to class in a timely manner
     * :heavy_exclamation_mark: TODO: add items in the A category for attendance.
 
 * Unacceptable Conduct (U):
@@ -53,6 +54,7 @@ Allegheny's honor code for all submitted work.
 
 * Acceptable Conduct (A):
   * Members shall
+    * Watch the course website and Slack workspace for changes to due dates.
     * :heavy_exclamation_mark: TODO: add items in the A category for deadlines.
 
 * Unacceptable Conduct (U):
@@ -67,6 +69,7 @@ This section defines what communication is acceptable and unacceptable. It is vi
   * Members shall
     * Use appropriate softwares for electronic communication.
     * Always participate in the discussion.
+    * Listen to and consider ideas presented by others.
     * :heavy_exclamation_mark: TODO: add any additional items in the A category for communication.
 
 * Unacceptable Conduct (U):
@@ -116,7 +119,10 @@ how long a decision will take to implement.
     * Report errors or bugs to the appropriate team members.
     * When a choice is disputed, use Github issue tracker and let team members
       share their opinion.
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team.
+    * Defer to the Professor or Technical Leaders when unsure about tasks or implementation.
+    * Use efficient communication within and outside of teams, where ideas are clearly expressed in the shortest possible timeframe.
+    * Communicate with the appropriate team member about any changes that is needed to be done to any project.
+    * Stay respectful and open-minded when discussing decisions and ideas.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -124,7 +130,10 @@ how long a decision will take to implement.
     * Make decisions without finding evidence showing that it would likely be beneficial.
     * Refuse to work on the decided option.
     * Make decisions that would affect another team without first notifying them.
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team.
+    * Refuse to actively participate in group discussions or breakout rooms.
+    * Deploy any kind of decision that is against codes of ethic.
+    * Mock a team member's decision.
+    * Refuse to do any assigned work in general.
 
 ### Postmortems
 
@@ -211,8 +220,6 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-Janyl Jumadinova
 :heavy_exclamation_mark: TODO: Add your name
-Bennett Westfall
-Zackery Devers
-Natnael Kahesay
+Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White
+
