@@ -77,7 +77,6 @@ This section defines what communication is acceptable and unacceptable. It is vi
     * Frequently use inappropriate forums such as text messaging or using Slack instead of GitHub issues tracker.
     * Rarely engage in the discussion.
     * Use communication platforms inappropriately.
-    * Make fun of other peoples contributions.
     * Attend lab sessions and meetings without appropriate electronic communication devices.
 
 ## Team Work
@@ -194,7 +193,7 @@ guidelines. While the Honor Code involves all students in Allegheny College and
 is enforced by the college's Honor Committee, this code of conduct only
 includes members of the Software Engineering class for the spring semester of 2021..
 
-_Infractions shall be imposed at three different levels of severity:_
+*Infractions shall be imposed at three different levels of severity:*
 
 * Level I: Any violation of a code of conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
 
@@ -220,3 +219,6 @@ Janyl Jumadinova
 :heavy_exclamation_mark: TODO: Add your name
 Nate Angus
 Paige Downey
+Alexander Le Floch
+Kiley Hewitt
+Peter Snipes
