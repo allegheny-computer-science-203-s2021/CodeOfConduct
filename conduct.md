@@ -99,6 +99,7 @@ Every team member needs to be actively and cooperatively involved with the proje
     * Demonstrate continuous engagement with tasks.
     * Raise a disagreeing opinion in a respectful manner.
     * Respond to ideas, not the person presenting them.
+    * Make an effort to engage with all of their team members and a wide variety of classmates.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -183,6 +184,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Encourage or engage in conflicts that undermine the code of conduct.
     * Escalate existing conflicts that jeopardize the group project.
     * Disregard or refuse to resolve an existing conflict that has been brought to their attention.
+    * Primarily discuss conflicts and issues with classmates with other classmates or friends rather than with those they wish to resolve them with.
     * :heavy_exclamation_mark: TODO: add any additional items in the U category for the conflicts.
 
 ## Infractions
@@ -206,7 +208,7 @@ includes members of the Software Engineering class for the spring semester of 20
 
 * Level I: Any violation of a code of conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
 
-:heavy_exclamation_mark: TODO: Add an action to be taken for the level I infraction
+Student will be given a written warning from the instructor with a brief description of the infraction they broke and what more appropriate behavior would be and an option to meet with the instructor to discuss alternatives to their action.
 
 * Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
 
