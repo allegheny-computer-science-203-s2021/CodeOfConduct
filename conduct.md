@@ -208,7 +208,7 @@ includes members of the Software Engineering class for the spring semester of 20
 
 * Level I: Any violation of a code of conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
 
-:heavy_exclamation_mark: TODO: Add an action to be taken for the level II infraction
+Student will be given a written warning from the instructor with a brief description of the infraction they broke and what more appropriate behavior would be and an option to meet with the instructor to discuss alternatives to their action.
 
 * Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
 
