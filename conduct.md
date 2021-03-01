@@ -131,6 +131,7 @@ how long a decision will take to implement.
     * Make decisions that would affect another team without first notifying them.
     * Refuse to actively participate in group discussions or breakout rooms.
     * Deploy any kind of decision that's against codes of ethic
+    * Refuse to listen to other's opinions
     * Mock a team member's decision
 
 ### Postmortems
