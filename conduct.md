@@ -212,6 +212,8 @@ a safe, inclusive and collegial environment.
 Class member(s) may appeal any infraction to the instructor of the class.
 Any decision made by the instructor for the given infraction(s) will be final.
 
+Class member(s) may be reduced 10 percent of their final grade due to not following the rules.
+
 ## Names of Individuals who Agree to Adhere to the Guide
 
-Janyl Jumadinova, Mai Nguyen
+Janyl Jumadinova, Mai Nguyen, Batmunkh Munkhjargal
