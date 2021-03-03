@@ -143,6 +143,7 @@ provide great insight in how to improve in future projects.
     * Respect the results of a postmortem that the group has decided.
     * Receive feedback as a team, to prevent singling out.
     * Listen to everyone's input and consider and respect what they have to say
+
 * Unacceptable Conduct (U):
   * Members shall not
     * Insult others while presenting criticism.
@@ -151,6 +152,8 @@ provide great insight in how to improve in future projects.
     * Single out specific team members when discussing the results of a project or a lab.
     * Make fun of or belittle people's inputs/contributions.
     * Be closed minded in regard to correct solutions.
+
+Andre Hance, Thomas Antle, Bailey Matrascia, Wesley Long
 
 ### Conflicts
 
