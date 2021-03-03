@@ -88,6 +88,14 @@ Some of the class activities and lab projects will require team collaboration.
 This section of the Code of Conduct will provide guidance on effective and
 inclusive team work.
 
+* Acceptable Conduct (A):
+  * Members shall
+    * Work together as a group with the work split up tp complete the assignment.
+
+* Unacceptable Conduct (U):
+  * Members shall not
+   * Put all the work on one or two people in the group to do.
+
 ### Participation
 
 Every team member needs to be actively and cooperatively involved with the projects at hand. This will ensure the flow of questions, ideas, and thoughts in a respectful manner. Our project at its root includes participation, candidness and insightful collaboration. Participating in project discussion means engaging in conversation, not just answering questions. The goal here is to show up and truly be all there.
