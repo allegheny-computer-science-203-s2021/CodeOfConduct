@@ -149,6 +149,7 @@ provide great insight in how to improve in future projects.
     * Refuse to collaborate in fixing remaining issues while a project or lab has not been completed.
     * Single out specific team members when discussing the results of a project or a lab.
     * Make fun of or belittle people's inputs/contributions.
+    * Be closed minded in regard to correct solutions.
 
 ### Conflicts
 
