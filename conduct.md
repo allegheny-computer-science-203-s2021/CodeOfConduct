@@ -30,6 +30,8 @@ Allegheny's honor code for all submitted work.
     * Read, understand, and follow all parts of this code of Conduct.
     * Follow the honor code on all submitted work.
     * Learn from the knowledge and opinions of teachers and peers.
+    * Respect, listen, and consider all ideas and contributions made by teammates
+    * Dress and act appropriately during online or in-person class sessions
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -38,16 +40,26 @@ Allegheny's honor code for all submitted work.
     * Violate any part of this Code of Conduct.
     * Violate the Allegheny honor code in regards to all submitted work.
     * Act with malicious intent to any student.
+    * Be rude to team members when introducting criticism.
+    * Threaten any class members for any reason.
+    * Prevent peers from participating in group assignments.
 
 #### Attendance
 
 * Acceptable Conduct (A):
   * Members shall
+    * Make every effort to be present in one capacity or another in every class
+    * Communicate with the professor beforehand in the event a class must be missed
+    * Communicate with teammates beforehand in the event a class must be missed
     * Arrive to class in a timely manner
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Miss or skip class without a valid excuse
+    * Be absent more than the allotted number of days permitted
+    * Show up late for class sessions
+    * Leave class before dismissed
+    * Disrupt with non-muted microphone when joining zoom session
 
 #### Deadlines
 
@@ -168,6 +180,9 @@ provide great insight in how to improve in future projects.
     * Receive feedback and discuss how it could be used to improve future projects and assignments.
     * Consider all possible angles and opinions when determining what is good feedback.
     * Thoroughly consider all feedback regardless of how it may initially seem.
+    * Respect the results of a postmortem that the group has decided.
+    * Receive feedback as a team, to prevent singling out.
+    * Listen to everyone's input and consider and respect what they have to say
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -175,6 +190,9 @@ provide great insight in how to improve in future projects.
     * Blame other members for any issues with the final product.
     * Refuse to collaborate in fixing remaining issues while a project or lab has not been completed.
     * Dismiss feedback before considering whether it is good or not.
+    * Single out specific team members when discussing the results of a project or a lab.
+    * Make fun of or belittle people's inputs/contributions.
+    * Be closed minded in regard to correct solutions.
 
 ### Conflicts
 
@@ -238,4 +256,5 @@ Any decision made by the instructor for the given infraction(s) will be final.
 ## Names of Individuals who Agree to Adhere to the Guide
 
 :heavy_exclamation_mark: TODO: Add your name
-Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White, Nate Angus, Paige Downey, Alexander Le Floch, Kiley Hewitt, Peter Snipes
+Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White, Andre Hance, Thomas Antle, Bailey Matrascia, Wesley Long, Maximillian Mandel, Abigail Waryanka, Gary Chen, Nate Angus, Paige Downey, Alexander Le Floch, Kiley Hewitt, Peter Snipes
+
