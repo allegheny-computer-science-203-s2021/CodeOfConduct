@@ -94,7 +94,7 @@ inclusive team work.
 
 * Unacceptable Conduct (U):
   * Members shall not
-   * Put all the work on one or two people in the group to do.
+    * Put all the work on one or two people in the group to do.
 
 ### Participation
 
