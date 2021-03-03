@@ -57,10 +57,14 @@ Allegheny's honor code for all submitted work.
   * Members shall
     * Watch the course website and Slack workspace for changes to due dates.
     * :heavy_exclamation_mark: TODO: add items in the A category for deadlines.
+    * Turn assignments in on time.
+    * Complete their work in a timely manner that will not negatively affect other group members.
 
 * Unacceptable Conduct (U):
   * Members shall not
     * :heavy_exclamation_mark: TODO: add items in the U category for deadlines.
+    * Be dishonest about late assignments.
+    * Bargain for more time to complete assignments.
 
 #### Communication
 
@@ -110,7 +114,6 @@ Every team member needs to be actively and cooperatively involved with the proje
     * Respond to ideas, not the person presenting them.
     * Make an effort to engage with all team members and a wide variety of classmates.
 
-
 * Unacceptable Conduct (U):
   * Members shall not
     * Demonstrate disrespect for team members.
@@ -138,6 +141,8 @@ how long a decision will take to implement.
     * Use efficient communication within and outside of teams, where ideas are clearly expressed in the shortest possible timeframe.
     * Communicate with the appropriate team member about any changes that is needed to be done to any project.
     * Stay respectful and open-minded when discussing decisions and ideas.
+    * Make decisions without consoltation of the rest of the group.
+    * Go behind the backs of other group members to make decisions.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -149,6 +154,8 @@ how long a decision will take to implement.
     * Deploy any kind of decision that is against codes of ethic.
     * Mock a team member's decision.
     * Refuse to do any assigned work in general.
+    * Share constructive criticism of others opinions before making a final decision as a group.
+    * Allow other group members to have an equal say in decisions.
 
 ### Postmortems
 
@@ -165,6 +172,8 @@ provide great insight in how to improve in future projects.
     * Provide constructive feedback and propose solutions for issues faced.
     * Receive feedback and discuss how it could be used to improve future projects and assignments.
     * :heavy_exclamation_mark: TODO: add any additional items in the A category for the postmortems.
+    * Consider all possible angles and opions when determining what is good feedback.
+    * Thoroughly consider all feedback regardless of how it may initially seem.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -172,6 +181,8 @@ provide great insight in how to improve in future projects.
     * Blame other members for any issues with the final product.
     * Refuse to collaborate in fixing remaining issues while a project or lab has not been completed.
     * :heavy_exclamation_mark: TODO: add any additional items in the U category for the postmortems.
+    * Dismiss feedback before considering whether it is good or not.
+
 
 ### Conflicts
 
@@ -221,6 +232,8 @@ includes members of the Software Engineering class for the spring semester of 20
 :heavy_exclamation_mark: TODO: Add an action to be taken for the level I infraction
 
 Student will be given a written warning from the instructor with a brief description of the infraction they broke and what more appropriate behavior would be and an option to meet with the instructor to discuss alternatives to their action.
+
+* Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
 
 :heavy_exclamation_mark: TODO: Add an action to be taken for the level II infraction
 
