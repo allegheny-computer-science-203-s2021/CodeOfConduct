@@ -38,14 +38,17 @@ Allegheny's honor code for all submitted work.
     * Violate any part of this Code of Conduct.
     * Violate the Allegheny honor code in regards to all submitted work.
     * Be rude to team members when introducting criticism.
-    * Threaten other class members for any reason.
+    * Threaten any class members for any reason.
     * Prevent peers from participating in group assignments.
 
 #### Attendance
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: TODO: add items in the A category for attendance.
+    * Make every effort to be present in one capacity or another in every class
+    * Arrive to class on time
+    * Communicate with the professor beforehand in the event a class must be missed
+    * Communicate with teammates beforehand in the event a class must be missed
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -221,4 +224,6 @@ Janyl Jumadinova
 Bennett Westfall
 Zackery Devers
 Natnael Kahesay
+Maximillian Mandel
+Abigail Waryanka
 Gary Chen
