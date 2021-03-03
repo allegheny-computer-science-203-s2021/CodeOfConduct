@@ -142,7 +142,7 @@ provide great insight in how to improve in future projects.
     * Receive feedback and discuss how it could be used to improve future projects and assignments.
     * Respect the results of a postmortem that the group has decided.
     * Receive feedback as a team, to prevent singling out.
-
+    * Listen to everyone's input and consider and respect what they have to say
 * Unacceptable Conduct (U):
   * Members shall not
     * Insult others while presenting criticism.
