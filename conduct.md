@@ -44,25 +44,21 @@ Allegheny's honor code for all submitted work.
 * Acceptable Conduct (A):
   * Members shall
     * Arrive to class in a timely manner
-    * :heavy_exclamation_mark: TODO: add items in the A category for attendance.
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Miss or skip class without a valid excuse
-    * :heavy_exclamation_mark: TODO: add items in the U category for attendance.
 
 #### Deadlines
 
 * Acceptable Conduct (A):
   * Members shall
     * Watch the course website and Slack workspace for changes to due dates.
-    * :heavy_exclamation_mark: TODO: add items in the A category for deadlines.
     * Turn assignments in on time.
     * Complete their work in a timely manner that will not negatively affect other group members.
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for deadlines.
     * Be dishonest about late assignments.
     * Bargain for more time to complete assignments.
 
@@ -141,7 +137,7 @@ how long a decision will take to implement.
     * Use efficient communication within and outside of teams, where ideas are clearly expressed in the shortest possible timeframe.
     * Communicate with the appropriate team member about any changes that is needed to be done to any project.
     * Stay respectful and open-minded when discussing decisions and ideas.
-    * Make decisions without consoltation of the rest of the group.
+    * Make decisions without consolation of the rest of the group.
     * Go behind the backs of other group members to make decisions.
 
 * Unacceptable Conduct (U):
@@ -171,8 +167,7 @@ provide great insight in how to improve in future projects.
     while adhering to the communications section of the code of conduct.
     * Provide constructive feedback and propose solutions for issues faced.
     * Receive feedback and discuss how it could be used to improve future projects and assignments.
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the postmortems.
-    * Consider all possible angles and opions when determining what is good feedback.
+    * Consider all possible angles and opinions when determining what is good feedback.
     * Thoroughly consider all feedback regardless of how it may initially seem.
 
 * Unacceptable Conduct (U):
@@ -180,7 +175,6 @@ provide great insight in how to improve in future projects.
     * Insult others while presenting criticism.
     * Blame other members for any issues with the final product.
     * Refuse to collaborate in fixing remaining issues while a project or lab has not been completed.
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the postmortems.
     * Dismiss feedback before considering whether it is good or not.
 
 ### Conflicts
@@ -197,7 +191,6 @@ It is inevitable that conflicts will arise when working as a large group. It is 
       compromise between class members involved.
     * Project managers may reassign different tasks to group members to solve a conflict.
     * The course instructor has a final say in how severe conflicts should be resolved.
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the conflicts.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -205,7 +198,6 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Escalate existing conflicts that jeopardize the group project.
     * Disregard or refuse to resolve an existing conflict that has been brought to their attention.
     * Primarily discuss conflicts and issues with classmates with outside classmates and friends rather than with those they wish to resolve them with.
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the conflicts.
 
 ## Infractions
 
@@ -227,8 +219,6 @@ includes members of the Software Engineering class for the spring semester of 20
 *Infractions shall be imposed at three different levels of severity:*
 
 * Level I: Any violation of a code of conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
-
-:heavy_exclamation_mark: TODO: Add an action to be taken for the level I infraction
 
 Student will be given a written warning from the instructor with a brief description of the infraction they broke and what more appropriate behavior would be and an option to meet with the instructor to discuss alternatives to their action.
 
