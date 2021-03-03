@@ -183,7 +183,6 @@ provide great insight in how to improve in future projects.
     * :heavy_exclamation_mark: TODO: add any additional items in the U category for the postmortems.
     * Dismiss feedback before considering whether it is good or not.
 
-
 ### Conflicts
 
 It is inevitable that conflicts will arise when working as a large group. It is essential, however, to resolve these conflicts in a professional manner while keeping in mind the concerns of everyone involved.
