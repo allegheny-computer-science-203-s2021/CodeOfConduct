@@ -162,8 +162,6 @@ provide great insight in how to improve in future projects.
     * Make fun of or belittle people's inputs/contributions.
     * Be closed minded in regard to correct solutions.
 
-Andre Hance, Thomas Antle, Bailey Matrascia, Wesley Long
-
 ### Conflicts
 
 It is inevitable that conflicts will arise when working as a large group. It is essential, however, to resolve these conflicts in a professional manner while keeping in mind the concerns of everyone involved.
