@@ -140,8 +140,7 @@ provide great insight in how to improve in future projects.
     while adhering to the communications section of the code of conduct.
     * Provide constructive feedback and propose solutions for issues faced.
     * Receive feedback and discuss how it could be used to improve future projects and assignments.
-    * Respect the results of a postmortem that the group has decided
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the postmortems.
+    * Respect the results of a postmortem that the group has decided.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -149,9 +148,7 @@ provide great insight in how to improve in future projects.
     * Blame other members for any issues with the final product.
     * Refuse to collaborate in fixing remaining issues while a project or lab has not been completed.
     * Single out specific team members when discussing the results of a project or a lab.
-    * Make fun of or belittle people's inputs/contributions
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the postmortems.
-    
+    * Make fun of or belittle people's inputs/contributions.
 
 ### Conflicts
 
