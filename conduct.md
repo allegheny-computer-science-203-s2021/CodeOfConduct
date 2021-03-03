@@ -196,7 +196,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Encourage or engage in conflicts that undermine the code of conduct.
     * Escalate existing conflicts that jeopardize the group project.
     * Disregard or refuse to resolve an existing conflict that has been brought to their attention.
-    * Primarily discuss conflicts and issues with classmates with outside classmates and friends rather than with those they wish to resolve them with.
+    * Primarily discuss conflicts with those outside of whom they wish to resolve them with
 
 ## Infractions
 
