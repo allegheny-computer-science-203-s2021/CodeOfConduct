@@ -181,7 +181,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Escalate existing conflicts that jeopardize the group project.
     * Disregard or refuse to resolve an existing conflict that has been brought to their attention.
     * Spread the conflict to outside of the group and into the class sessions.
-    * Avoid conflicts until they become larger than they need to be.
+    * Avoid conflicts and allow them to escelate when they could have been easily and quickly resolved.
 
 ## Infractions
 
@@ -222,6 +222,7 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
+:heavy_exclamation_mark: TODO: Add your name
 Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White, Lex Caldwell, Nathan Loria, Kaung Myat Htet(KM), Linh Nguyen Mai
 
 
