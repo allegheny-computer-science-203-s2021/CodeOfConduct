@@ -222,6 +222,6 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe WhiteJanyl Jumadinova, Lex Caldwell, Nathan Loria, Kaung Myat Htet(KM), Linh Nguyen Mai
+Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White, Lex Caldwell, Nathan Loria, Kaung Myat Htet(KM), Linh Nguyen Mai
 
 
