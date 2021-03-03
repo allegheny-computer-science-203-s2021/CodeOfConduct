@@ -173,6 +173,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Disregard or refuse to resolve an existing conflict that has been brought to their attention.
     * Spread the conflict to outside of the group and into the class sessions.
     * Avoid conflicts until they become larger than they need to be.
+    * Not taking in colleagues' opinions into consideration.
 
 ## Infractions
 
