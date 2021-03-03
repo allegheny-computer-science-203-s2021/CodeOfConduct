@@ -217,8 +217,9 @@ Any decision made by the instructor for the given infraction(s) will be final.
 ## Names of Individuals who Agree to Adhere to the Guide
 
 Janyl Jumadinova
-Kevin Lee
-Adam Shinomiya
-Michael Ceccarelli
-Gabe Schwartz
+:heavy_exclamation_mark: TODO: Add your name
+Kevin Lee,
+Adam Shinomiya,
+Michael Ceccarelli,
+Gabe Schwartz,
 Liam Connelly
