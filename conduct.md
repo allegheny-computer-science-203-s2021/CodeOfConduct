@@ -164,6 +164,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Project managers may reassign different tasks to group members to solve a conflict.
     * The course instructor has a final say in how severe conflicts should be resolved.
     * Establish a clear line of communication with other members before conflicts are brought to technical leaders or the instructor
+    * Maintain a professional working environment between colleagues when collaborating for projects.
 
 * Unacceptable Conduct (U):
   * Members shall not
