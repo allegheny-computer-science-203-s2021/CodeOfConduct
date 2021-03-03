@@ -51,7 +51,6 @@ Allegheny's honor code for all submitted work.
     * Communicate with teammates beforehand in the event a class must be missed
     * Arrive to class in a timely manner
 
-
 * Unacceptable Conduct (U):
   * Members shall not
     * Be absent more than the allotted number of days permitted
