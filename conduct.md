@@ -63,7 +63,6 @@ Allegheny's honor code for all submitted work.
     * Turn in work past the due date given.
     * Turn in work past the time set for turn-in.
     * Turn work in without notifying teammates.
-    * Turn work in for other classes.
 
 #### Communication
 
