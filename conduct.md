@@ -60,8 +60,7 @@ Allegheny's honor code for all submitted work.
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * Turn in work past the due date given.
-    * Turn in work past the time set for turn-in.
+    * Turn in work past the due date and time given.
     * Turn work in without notifying teammates.
 
 #### Communication
