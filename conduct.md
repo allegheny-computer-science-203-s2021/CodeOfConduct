@@ -29,6 +29,8 @@ Allegheny's honor code for all submitted work.
     * Allow peers to voice their opinions and questions.
     * Read, understand, and follow all parts of this code of Conduct.
     * Follow the honor code on all submitted work.
+    * Respect, listen, and consider all ideas and contributions made by teammates
+    * Dress and act appropriately during online or in-person class sessions
     * :heavy_exclamation_mark: TODO: add any additional items in the A category.
 
 * Unacceptable Conduct (U):
