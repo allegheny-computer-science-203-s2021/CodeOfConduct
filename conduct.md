@@ -29,7 +29,7 @@ Allegheny's honor code for all submitted work.
     * Allow peers to voice their opinions and questions.
     * Read, understand, and follow all parts of this code of Conduct.
     * Follow the honor code on all submitted work.
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category.
+    * Learn from the knowledge and opinions of teachers and peers.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -37,7 +37,7 @@ Allegheny's honor code for all submitted work.
     * Prevent peers from voicing their opinions and questions.
     * Violate any part of this Code of Conduct.
     * Violate the Allegheny honor code in regards to all submitted work.
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category.
+    * Act with malicious intent to any student.
 
 #### Attendance
 
