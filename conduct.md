@@ -201,20 +201,17 @@ includes members of the Software Engineering class for the spring semester of 20
 *Infractions shall be imposed at three different levels of severity:*
 
 * Level I: Any violation of a code of conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
- * Warning to the student not to repeat their behavior
- * The offending student must commit to working towards amending the infraction and avoiding future infractions.
+- Warning to the student not to repeat their behavior
+- The offending student must commit to working towards amending the infraction and avoiding future infractions.
 
 * Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
- * Student must formally apologize to the affected party.
- * Student is required to communicate with the professor to discuss continued participation in class.
- * Student may receive a reduced or failing grade for the affected project.
+- Student must formally apologize to the affected party.
+- Student is required to communicate with the professor to discuss continued participation in class.
+- Student may receive a reduced or failing grade for the affected project.
 
 * Level III: A Level III infraction will be given to an individual who has accumulated five Level I infractions.
- * Student is required to communicate weekly with the professor to discuss continued participation in class.
- * Depending on the severity of the infraction, student may receive a failing grade for the project and/or class, at the discretion of the professor.
-
-
-
+- Student is required to communicate weekly with the professor to discuss continued participation in class.
+- Depending on the severity of the infraction, student may receive a failing grade for the project and/or class, at the discretion of the professor.
 
 Class member(s) are encouraged to report any infractions in order to ensure
 a safe, inclusive and collegial environment.
@@ -226,9 +223,4 @@ Class member(s) may be reduced 10 percent of their final grade due to not follow
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-
-
-
-
 Janyl Jumadinova, Ryan Hilty, Kyrie Doniz, Mai Nguyen, Batmunkh Munkhjargal, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White
-
