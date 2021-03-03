@@ -194,6 +194,7 @@ includes members of the Software Engineering class for the spring semester of 20
 * Level I: Any violation of a code of conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
 
 - Warning to the student not to repeat their behavior
+
 - The offending student must commit to working towards amending the infraction and avoiding future infractions.
 
 
@@ -206,9 +207,10 @@ includes members of the Software Engineering class for the spring semester of 20
 - Student may receive a reduced or failing grade for the affected project.
 
 
-* Level III A Level III infraction will be given to an individual who has accumulated five Level I infractions.
+* Level III: A Level III infraction will be given to an individual who has accumulated five Level I infractions.
 
 - Student is required to communicate weekly with the professor to discuss continued participation in class.
+
 - Depending on the severity of the infraction, student may receive a failing grade for the project and/or class, at the discretion of the professor.
 
 
@@ -222,12 +224,9 @@ Class member(s) may be reduced 10 percent of their final grade due to not follow
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-<<<<<<< HEAD
-Janyl Jumadinova, Mai Nguyen, Batmunkh Munkhjargal
-=======
 Janyl Jumadinova
-:heavy_exclamation_mark: Ryan Hilty
+Ryan Hilty
 Kyrie Doniz
 Mai Nguyen
 Batmunkh Munkhjargal
->>>>>>> 93e22651ff554a0a1dd21744eae78cc092ca22da
+
