@@ -57,6 +57,7 @@ Allegheny's honor code for all submitted work.
     * Turn assignments in on the due date; the only exception to this rule is if the student is excused by the professor.
     * Keep track of the due dates of the assignments.
     * Be able to give reasons for missing deadlines.
+    * Group work shall be turned in on time, with all group members agreeing on when the work is finished and ready to be turned in.
 
 * Unacceptable Conduct (U):
   * Members shall not
