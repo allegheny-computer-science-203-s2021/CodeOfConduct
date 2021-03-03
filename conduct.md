@@ -139,6 +139,7 @@ how long a decision will take to implement.
     * Stay respectful and open-minded when discussing decisions and ideas.
     * Make decisions without consolation of the rest of the group.
     * Go behind the backs of other group members to make decisions.
+    * Share constructive criticism of others opinions before making a final decision as a group.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -150,8 +151,6 @@ how long a decision will take to implement.
     * Deploy any kind of decision that is against codes of ethic.
     * Mock a team member's decision.
     * Refuse to do any assigned work in general.
-    * Share constructive criticism of others opinions before making a final decision as a group.
-    * Allow other group members to have an equal say in decisions.
 
 ### Postmortems
 
