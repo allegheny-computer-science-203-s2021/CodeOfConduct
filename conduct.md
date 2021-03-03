@@ -229,4 +229,5 @@ Janyl Jumadinova
 :heavy_exclamation_mark: Ryan Hilty
 Kyrie Doniz
 Mai Nguyen
+Batmunkh Munkhjargal
 >>>>>>> 93e22651ff554a0a1dd21744eae78cc092ca22da
