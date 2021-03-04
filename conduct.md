@@ -30,6 +30,8 @@ Allegheny's honor code for all submitted work.
     * Read, understand, and follow all parts of this code of Conduct.
     * Follow the honor code on all submitted work.
     * Learn from the knowledge and opinions of teachers and peers.
+    * Respect, listen, and consider all ideas and contributions made by teammates
+    * Dress and act appropriately during online or in-person class sessions
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -38,16 +40,26 @@ Allegheny's honor code for all submitted work.
     * Violate any part of this Code of Conduct.
     * Violate the Allegheny honor code in regards to all submitted work.
     * Act with malicious intent to any student.
+    * Be rude to team members when introducting criticism.
+    * Threaten any class members for any reason.
+    * Prevent peers from participating in group assignments.
 
 #### Attendance
 
 * Acceptable Conduct (A):
   * Members shall
+    * Make every effort to be present in one capacity or another in every class
+    * Communicate with the professor beforehand in the event a class must be missed
+    * Communicate with teammates beforehand in the event a class must be missed
     * Arrive to class in a timely manner
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Miss or skip class without a valid excuse
+    * Be absent more than the allotted number of days permitted
+    * Show up late for class sessions
+    * Leave class before dismissed
+    * Disrupt with non-muted microphone when joining zoom session
 
 #### Deadlines
 
@@ -105,7 +117,7 @@ Every team member needs to be actively and cooperatively involved with the proje
 * Unacceptable Conduct (U):
   * Members shall not
     * Demonstrate disrespect for team members.
-    * Have an inappropriate professional boundary with team members.
+    * Violate the professional boundaries of team members or classmates whether those boundries be *ibnlt* personal, professional, emotional, or ideological.
     * Show poor participation and attitude to their delegated tasks.
     * Showing up extremely late or not showing up for group meeting without prior notice.
 
@@ -161,6 +173,9 @@ provide great insight in how to improve in future projects.
     * Receive feedback and discuss how it could be used to improve future projects and assignments.
     * Consider all possible angles and opinions when determining what is good feedback.
     * Thoroughly consider all feedback regardless of how it may initially seem.
+    * Respect the results of a postmortem that the group has decided.
+    * Receive feedback as a team, to prevent singling out.
+    * Listen to everyone's input and consider and respect what they have to say
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -168,6 +183,9 @@ provide great insight in how to improve in future projects.
     * Blame other members for any issues with the final product.
     * Refuse to collaborate in fixing remaining issues while a project or lab has not been completed.
     * Dismiss feedback before considering whether it is good or not.
+    * Single out specific team members when discussing the results of a project or a lab.
+    * Make fun of or belittle people's inputs/contributions.
+    * Be closed minded in regard to correct solutions.
 
 ### Conflicts
 
@@ -211,16 +229,17 @@ includes members of the Software Engineering class for the spring semester of 20
 *Infractions shall be imposed at three different levels of severity:*
 
 * Level I: Any violation of a code of conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
-
-Student will be given a written warning from the instructor with a brief description of the infraction they broke and what more appropriate behavior would be and an option to meet with the instructor to discuss alternatives to their action.
+- Warning to the student not to repeat their behavior
+- The offending student must commit to working towards amending the infraction and avoiding future infractions.
 
 * Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
+- Student must formally apologize to the affected party.
+- Student is required to communicate with the professor to discuss continued participation in class.
+- Student may receive a reduced or failing grade for the affected project.
 
-:heavy_exclamation_mark: TODO: Add an action to be taken for the level II infraction
-
-* Level III A Level III infraction will be given to an individual who has accumulated five Level I infractions.
-
-:heavy_exclamation_mark: TODO: Add an action to be taken for the level III infraction
+* Level III: A Level III infraction will be given to an individual who has accumulated five Level I infractions.
+- Student is required to communicate weekly with the professor to discuss continued participation in class.
+- Depending on the severity of the infraction, student may receive a failing grade for the project and/or class, at the discretion of the professor.
 
 Class member(s) are encouraged to report any infractions in order to ensure
 a safe, inclusive and collegial environment.
@@ -228,7 +247,10 @@ a safe, inclusive and collegial environment.
 Class member(s) may appeal any infraction to the instructor of the class.
 Any decision made by the instructor for the given infraction(s) will be final.
 
+Class member(s) may be reduced 10 percent of their final grade due to not following the rules.
+
 ## Names of Individuals who Agree to Adhere to the Guide
 
 :heavy_exclamation_mark: TODO: Add your name
-Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White, Nate Angus, Paige Downey, Alexander Le Floch, Kiley Hewitt, Peter Snipes
+Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White, Andre Hance, Thomas Antle, Bailey Matrascia, Wesley Long, Maximillian Mandel, Abigail Waryanka, Gary Chen, Ryan Hilty, Kyrie Doniz, Mai Nguyen, Batmunkh Munkhjargal, Rachael Harris, Nate Angus, Paige Downey, Alexander Le Floch, Kiley Hewitt, Peter Snipes
+
