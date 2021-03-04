@@ -89,14 +89,6 @@ Some of the class activities and lab projects will require team collaboration.
 This section of the Code of Conduct will provide guidance on effective and
 inclusive team work.
 
-* Acceptable Conduct (A):
-  * Members shall
-    * Work together as a group with the work split up tp complete the assignment.
-
-* Unacceptable Conduct (U):
-  * Members shall not
-    * Put all the work on one or two people in the group to do.
-
 ### Participation
 
 Every team member needs to be actively and cooperatively involved with the projects at hand. This will ensure the flow of questions, ideas, and thoughts in a respectful manner. Our project at its root includes participation, candidness and insightful collaboration. Participating in project discussion means engaging in conversation, not just answering questions. The goal here is to show up and truly be all there.
@@ -137,9 +129,6 @@ how long a decision will take to implement.
     * Use efficient communication within and outside of teams, where ideas are clearly expressed in the shortest possible timeframe.
     * Communicate with the appropriate team member about any changes that is needed to be done to any project.
     * Stay respectful and open-minded when discussing decisions and ideas.
-    * Make decisions without consolation of the rest of the group.
-    * Go behind the backs of other group members to make decisions.
-    * Share constructive criticism of others opinions before making a final decision as a group.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -151,6 +140,10 @@ how long a decision will take to implement.
     * Deploy any kind of decision that is against codes of ethic.
     * Mock a team member's decision.
     * Refuse to do any assigned work in general.
+    * Make decisions without consolation of the rest of the group.
+    * Go behind the backs of other group members to make decisions.
+    * Share constructive criticism of others opinions before making a final decision as a group.
+
 
 ### Postmortems
 
