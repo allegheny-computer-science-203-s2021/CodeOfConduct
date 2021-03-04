@@ -107,7 +107,7 @@ Every team member needs to be actively and cooperatively involved with the proje
 * Unacceptable Conduct (U):
   * Members shall not
     * Demonstrate disrespect for team members.
-    * Have an inappropriate professional boundary with team members.
+    * Violate the professional boundaries of team members or classmates whether those boundries be *ibnlt* personal, professional, emotional, or ideological.
     * Show poor participation and attitude to their delegated tasks.
     * Showing up extremely late or not showing up for group meeting without prior notice.
 
@@ -236,5 +236,5 @@ Class member(s) may be reduced 10 percent of their final grade due to not follow
 ## Names of Individuals who Agree to Adhere to the Guide
 
 :heavy_exclamation_mark: TODO: Add your name
-Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White, Andre Hance, Thomas Antle, Bailey Matrascia, Wesley Long, Maximillian Mandel, Abigail Waryanka, Gary Chen, Ryan Hilty, Kyrie Doniz, Mai Nguyen, Batmunkh Munkhjargal
+Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White, Andre Hance, Thomas Antle, Bailey Matrascia, Wesley Long, Maximillian Mandel, Abigail Waryanka, Gary Chen, Ryan Hilty, Kyrie Doniz, Mai Nguyen, Batmunkh Munkhjargal, Rachael Harris
 
