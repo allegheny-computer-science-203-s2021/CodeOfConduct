@@ -156,7 +156,6 @@ how long a decision will take to implement.
     * Go behind the backs of other group members to make decisions.
     * Share constructive criticism of others opinions before making a final decision as a group.
 
-
 ### Postmortems
 
 Postmortems are great ways of looking at and analyzing the performance of
