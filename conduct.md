@@ -107,7 +107,7 @@ Every team member needs to be actively and cooperatively involved with the proje
 * Unacceptable Conduct (U):
   * Members shall not
     * Demonstrate disrespect for team members.
-    * Have an inappropriate professional boundary with team members.
+    * Violate the professional boundaries of team members or classmates whether those boundries be *ibnlt* personal, professional, emotional, or ideological.
     * Show poor participation and attitude to their delegated tasks.
     * Showing up extremely late or not showing up for group meeting without prior notice.
 
@@ -215,16 +215,17 @@ includes members of the Software Engineering class for the spring semester of 20
 *Infractions shall be imposed at three different levels of severity:*
 
 * Level I: Any violation of a code of conduct rule is by default a Level I infraction. Technical leaders and instructor will be keeping track of infractions.
-
-:heavy_exclamation_mark: TODO: Add an action to be taken for the level I infraction
+- Warning to the student not to repeat their behavior
+- The offending student must commit to working towards amending the infraction and avoiding future infractions.
 
 * Level II: Upon the accumulation of three level I infractions, project managers and the instructor will issue a formal level II infraction.
+- Student must formally apologize to the affected party.
+- Student is required to communicate with the professor to discuss continued participation in class.
+- Student may receive a reduced or failing grade for the affected project.
 
-:heavy_exclamation_mark: TODO: Add an action to be taken for the level II infraction
-
-* Level III A Level III infraction will be given to an individual who has accumulated five Level I infractions.
-
-:heavy_exclamation_mark: TODO: Add an action to be taken for the level III infraction
+* Level III: A Level III infraction will be given to an individual who has accumulated five Level I infractions.
+- Student is required to communicate weekly with the professor to discuss continued participation in class.
+- Depending on the severity of the infraction, student may receive a failing grade for the project and/or class, at the discretion of the professor.
 
 Class member(s) are encouraged to report any infractions in order to ensure
 a safe, inclusive and collegial environment.
@@ -232,8 +233,10 @@ a safe, inclusive and collegial environment.
 Class member(s) may appeal any infraction to the instructor of the class.
 Any decision made by the instructor for the given infraction(s) will be final.
 
+Class member(s) may be reduced 10 percent of their final grade due to not following the rules.
+
 ## Names of Individuals who Agree to Adhere to the Guide
 
 :heavy_exclamation_mark: TODO: Add your name
 
-Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White, Andre Hance, Thomas Antle, Bailey Matrascia, Wesley Long, Maximillian Mandel, Abigail Waryanka, Gary Chen, Lex Caldwell, Nathan Loria, Kaung Myat Htet(KM), Linh Nguyen Mai
+Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White, Andre Hance, Thomas Antle, Bailey Matrascia, Wesley Long, Maximillian Mandel, Abigail Waryanka, Gary Chen, Ryan Hilty, Kyrie Doniz, Mai Nguyen, Batmunkh Munkhjargal, Rachael Harris, Lex Caldwell, Nathan Loria, Kaung Myat Htet(KM), Linh Nguyen Mai
