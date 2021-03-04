@@ -173,7 +173,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     to the attention of the project managers who will work to resolve any issues.
     * Project managers, technical leaders and the course instructor are
       responsible for resolving any issues by proposing solutions to reach a
-    compromise between class members involved.
+      compromise between class members involved.
     * Project managers may reassign different tasks to group members to solve a conflict.
     * The course instructor has a final say in how severe conflicts should be resolved.
     * :heavy_exclamation_mark: TODO: add any additional items in the A category for the conflicts.
