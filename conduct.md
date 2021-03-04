@@ -146,7 +146,7 @@ provide great insight in how to improve in future projects.
   * Members shall
     * Work as a team to create a postmortem plan to review and fix sections of the project.
     * Participate in the discussions in a respectful and courteous manner
-    while adhering to the communications section of the code of conduct.
+      while adhering to the communications section of the code of conduct.
     * Provide constructive feedback and propose solutions for issues faced.
     * Receive feedback and discuss how it could be used to improve future projects and assignments.
     * Respect the results of a postmortem that the group has decided.
