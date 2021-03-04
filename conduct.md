@@ -29,7 +29,8 @@ Allegheny's honor code for all submitted work.
     * Allow peers to voice their opinions and questions.
     * Read, understand, and follow all parts of this code of Conduct.
     * Follow the honor code on all submitted work.
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category.
+    * Respect, listen, and consider all ideas and contributions made by teammates
+    * Dress and act appropriately during online or in-person class sessions
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -37,22 +38,31 @@ Allegheny's honor code for all submitted work.
     * Prevent peers from voicing their opinions and questions.
     * Violate any part of this Code of Conduct.
     * Violate the Allegheny honor code in regards to all submitted work.
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category.
+    * Be rude to team members when introducting criticism.
+    * Threaten any class members for any reason.
+    * Prevent peers from participating in group assignments.
 
 #### Attendance
 
 * Acceptable Conduct (A):
   * Members shall
-    * :heavy_exclamation_mark: TODO: add items in the A category for attendance.
+    * Make every effort to be present in one capacity or another in every class
+    * Communicate with the professor beforehand in the event a class must be missed
+    * Communicate with teammates beforehand in the event a class must be missed
+    * Arrive to class in a timely manner
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for attendance.
+    * Be absent more than the allotted number of days permitted
+    * Show up late for class sessions
+    * Leave class before dismissed
+    * Disrupt with non-muted microphone when joining zoom session
 
 #### Deadlines
 
 * Acceptable Conduct (A):
   * Members shall
+    * Watch the course website and Slack workspace for changes to due dates.
     * :heavy_exclamation_mark: TODO: add items in the A category for deadlines.
 
 * Unacceptable Conduct (U):
@@ -67,6 +77,7 @@ This section defines what communication is acceptable and unacceptable. It is vi
   * Members shall
     * Use appropriate softwares for electronic communication.
     * Always participate in the discussion.
+    * Listen to and consider ideas presented by others.
     * :heavy_exclamation_mark: TODO: add any additional items in the A category for communication.
 
 * Unacceptable Conduct (U):
@@ -88,17 +99,17 @@ Every team member needs to be actively and cooperatively involved with the proje
 * Acceptable Conduct (A):
   * Members shall
     * Value and consider everyone’s opinion.
-    * Approach issues and team members with professionalism.
+    * Approach issues and team members with professionalism. (Specifically, using "I" statements.)
     * Demonstrate continuous engagement with tasks.
     * Raise a disagreeing opinion in a respectful manner.
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for participation.
+    * Respond to ideas, not the person presenting them.
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Demonstrate disrespect for team members.
     * Have an inappropriate professional boundary with team members.
     * Show poor participation and attitude to their delegated tasks.
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for participation.
+    * Showing up extremely late or not showing up for group meeting without prior notice.
 
 ### Decisions
 
@@ -116,7 +127,10 @@ how long a decision will take to implement.
     * Report errors or bugs to the appropriate team members.
     * When a choice is disputed, use Github issue tracker and let team members
       share their opinion.
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the decision making as a team.
+    * Defer to the Professor or Technical Leaders when unsure about tasks or implementation.
+    * Use efficient communication within and outside of teams, where ideas are clearly expressed in the shortest possible timeframe.
+    * Communicate with the appropriate team member about any changes that is needed to be done to any project.
+    * Stay respectful and open-minded when discussing decisions and ideas.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -124,7 +138,10 @@ how long a decision will take to implement.
     * Make decisions without finding evidence showing that it would likely be beneficial.
     * Refuse to work on the decided option.
     * Make decisions that would affect another team without first notifying them.
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the decision making as a team.
+    * Refuse to actively participate in group discussions or breakout rooms.
+    * Deploy any kind of decision that is against codes of ethic.
+    * Mock a team member's decision.
+    * Refuse to do any assigned work in general.
 
 ### Postmortems
 
@@ -140,14 +157,18 @@ provide great insight in how to improve in future projects.
     while adhering to the communications section of the code of conduct.
     * Provide constructive feedback and propose solutions for issues faced.
     * Receive feedback and discuss how it could be used to improve future projects and assignments.
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for the postmortems.
+    * Respect the results of a postmortem that the group has decided.
+    * Receive feedback as a team, to prevent singling out.
+    * Listen to everyone's input and consider and respect what they have to say
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Insult others while presenting criticism.
     * Blame other members for any issues with the final product.
     * Refuse to collaborate in fixing remaining issues while a project or lab has not been completed.
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for the postmortems.
+    * Single out specific team members when discussing the results of a project or a lab.
+    * Make fun of or belittle people's inputs/contributions.
+    * Be closed minded in regard to correct solutions.
 
 ### Conflicts
 
@@ -172,8 +193,7 @@ It is inevitable that conflicts will arise when working as a large group. It is 
     * Escalate existing conflicts that jeopardize the group project.
     * Disregard or refuse to resolve an existing conflict that has been brought to their attention.
     * Spread the conflict to outside of the group and into the class sessions.
-    * Avoid conflicts until they become larger than they need to be.
-    * Not taking in colleagues' opinions into consideration.
+    * Avoid conflicts and allow them to escelate when they could have been easily and quickly resolved.
 
 ## Infractions
 
@@ -214,7 +234,6 @@ Any decision made by the instructor for the given infraction(s) will be final.
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-Janyl Jumadinova
-Lex Caldwell
-Nathan Loria
-Kaung Myat Htet(KM)
+:heavy_exclamation_mark: TODO: Add your name
+
+Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White, Andre Hance, Thomas Antle, Bailey Matrascia, Wesley Long, Maximillian Mandel, Abigail Waryanka, Gary Chen, Lex Caldwell, Nathan Loria, Kaung Myat Htet(KM), Linh Nguyen Mai
