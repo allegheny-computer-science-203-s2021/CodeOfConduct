@@ -29,6 +29,7 @@ Allegheny's honor code for all submitted work.
     * Allow peers to voice their opinions and questions.
     * Read, understand, and follow all parts of this code of Conduct.
     * Follow the honor code on all submitted work.
+    * Learn from the knowledge and opinions of teachers and peers.
     * Respect, listen, and consider all ideas and contributions made by teammates
     * Dress and act appropriately during online or in-person class sessions
 
@@ -38,6 +39,7 @@ Allegheny's honor code for all submitted work.
     * Prevent peers from voicing their opinions and questions.
     * Violate any part of this Code of Conduct.
     * Violate the Allegheny honor code in regards to all submitted work.
+    * Act with malicious intent to any student.
     * Be rude to team members when introducting criticism.
     * Threaten any class members for any reason.
     * Prevent peers from participating in group assignments.
@@ -53,6 +55,7 @@ Allegheny's honor code for all submitted work.
 
 * Unacceptable Conduct (U):
   * Members shall not
+    * Miss or skip class without a valid excuse
     * Be absent more than the allotted number of days permitted
     * Show up late for class sessions
     * Leave class before dismissed
@@ -63,11 +66,13 @@ Allegheny's honor code for all submitted work.
 * Acceptable Conduct (A):
   * Members shall
     * Watch the course website and Slack workspace for changes to due dates.
-    * :heavy_exclamation_mark: TODO: add items in the A category for deadlines.
+    * Turn assignments in on time.
+    * Complete their work in a timely manner that will not negatively affect other group members.
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * :heavy_exclamation_mark: TODO: add items in the U category for deadlines.
+    * Be dishonest about late assignments.
+    * Bargain for more time to complete assignments.
 
 #### Communication
 
@@ -75,16 +80,20 @@ This section defines what communication is acceptable and unacceptable. It is vi
 
 * Acceptable Conduct (A):
   * Members shall
-    * Use appropriate softwares for electronic communication.
+    * Use appropriate softwares for electronic communication, such as Slack or GitHub.
     * Always participate in the discussion.
+    * Keep all communication respectful.
+    * Regularly communicate questions and issues with the class.
+    * Avoid speaking over other people.
+    * Give and accept constructive criticism.
     * Listen to and consider ideas presented by others.
-    * :heavy_exclamation_mark: TODO: add any additional items in the A category for communication.
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Frequently use inappropriate forums such as text messaging or using Slack instead of GitHub issues tracker.
     * Rarely engage in the discussion.
-    * :heavy_exclamation_mark: TODO: add any additional items in the U category for communication.
+    * Use communication platforms inappropriately.
+    * Attend lab sessions and meetings without appropriate electronic communication devices.
 
 ## Team Work
 
@@ -103,6 +112,7 @@ Every team member needs to be actively and cooperatively involved with the proje
     * Demonstrate continuous engagement with tasks.
     * Raise a disagreeing opinion in a respectful manner.
     * Respond to ideas, not the person presenting them.
+    * Make an effort to engage with all team members and a wide variety of classmates.
 
 * Unacceptable Conduct (U):
   * Members shall not
@@ -142,6 +152,9 @@ how long a decision will take to implement.
     * Deploy any kind of decision that is against codes of ethic.
     * Mock a team member's decision.
     * Refuse to do any assigned work in general.
+    * Make decisions without consolation of the rest of the group.
+    * Go behind the backs of other group members to make decisions.
+    * Share constructive criticism of others opinions before making a final decision as a group.
 
 ### Postmortems
 
@@ -154,9 +167,11 @@ provide great insight in how to improve in future projects.
   * Members shall
     * Work as a team to create a postmortem plan to review and fix sections of the project.
     * Participate in the discussions in a respectful and courteous manner
-    while adhering to the communications section of the code of conduct.
+      while adhering to the communications section of the code of conduct.
     * Provide constructive feedback and propose solutions for issues faced.
     * Receive feedback and discuss how it could be used to improve future projects and assignments.
+    * Consider all possible angles and opinions when determining what is good feedback.
+    * Thoroughly consider all feedback regardless of how it may initially seem.
     * Respect the results of a postmortem that the group has decided.
     * Receive feedback as a team, to prevent singling out.
     * Listen to everyone's input and consider and respect what they have to say
@@ -166,6 +181,7 @@ provide great insight in how to improve in future projects.
     * Insult others while presenting criticism.
     * Blame other members for any issues with the final product.
     * Refuse to collaborate in fixing remaining issues while a project or lab has not been completed.
+    * Dismiss feedback before considering whether it is good or not.
     * Single out specific team members when discussing the results of a project or a lab.
     * Make fun of or belittle people's inputs/contributions.
     * Be closed minded in regard to correct solutions.
@@ -178,10 +194,10 @@ It is inevitable that conflicts will arise when working as a large group. It is 
   * Members shall
     * Resolve conflicts before they become severe by engaging in respectful conversations.
     * If conflicts become severe between class members, they should be brought
-    to the attention of the project managers who will work to resolve any issues.
+      to the attention of the project managers who will work to resolve any issues.
     * Project managers, technical leaders and the course instructor are
-    responsible for resolving any issues by proposing solutions to reach a
-    compromise between class members involved.
+      responsible for resolving any issues by proposing solutions to reach a
+      compromise between class members involved.
     * Project managers may reassign different tasks to group members to solve a conflict.
     * The course instructor has a final say in how severe conflicts should be resolved.
     * Establish a clear line of communication with other members before conflicts are brought to technical leaders or the instructor
@@ -239,4 +255,4 @@ Class member(s) may be reduced 10 percent of their final grade due to not follow
 
 :heavy_exclamation_mark: TODO: Add your name
 
-Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White, Andre Hance, Thomas Antle, Bailey Matrascia, Wesley Long, Maximillian Mandel, Abigail Waryanka, Gary Chen, Ryan Hilty, Kyrie Doniz, Mai Nguyen, Batmunkh Munkhjargal, Rachael Harris, Lex Caldwell, Nathan Loria, Kaung Myat Htet(KM), Linh Nguyen Mai
+Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White, Andre Hance, Thomas Antle, Bailey Matrascia, Wesley Long, Maximillian Mandel, Abigail Waryanka, Gary Chen, Ryan Hilty, Kyrie Doniz, Mai Nguyen, Batmunkh Munkhjargal, Rachael Harris, Nate Angus, Paige Downey, Alexander Le Floch, Kiley Hewitt, Peter Snipes, Lex Caldwell, Nathan Loria, Kaung Myat Htet(KM), Linh Nguyen Mai
