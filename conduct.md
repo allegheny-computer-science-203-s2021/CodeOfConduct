@@ -201,13 +201,16 @@ It is inevitable that conflicts will arise when working as a large group. It is 
       compromise between class members involved.
     * Project managers may reassign different tasks to group members to solve a conflict.
     * The course instructor has a final say in how severe conflicts should be resolved.
+    * Establish a clear line of communication with other members before conflicts are brought to technical leaders or the instructor
+    * Maintain a professional working environment between colleagues when collaborating for projects.
 
 * Unacceptable Conduct (U):
   * Members shall not
     * Encourage or engage in conflicts that undermine the code of conduct.
     * Escalate existing conflicts that jeopardize the group project.
     * Disregard or refuse to resolve an existing conflict that has been brought to their attention.
-    * Primarily discuss conflicts with those outside of whom they wish to resolve them with
+    * Spread the conflict to outside of the group and into the class sessions.
+    * Avoid conflicts and allow them to escelate when they could have been easily and quickly resolved.
 
 ## Infractions
 
@@ -252,4 +255,5 @@ Class member(s) may be reduced 10 percent of their final grade due to not follow
 ## Names of Individuals who Agree to Adhere to the Guide
 
 :heavy_exclamation_mark: TODO: Add your name
-Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White, Andre Hance, Thomas Antle, Bailey Matrascia, Wesley Long, Maximillian Mandel, Abigail Waryanka, Gary Chen, Ryan Hilty, Kyrie Doniz, Mai Nguyen, Batmunkh Munkhjargal, Rachael Harris, Nate Angus, Paige Downey, Alexander Le Floch, Kiley Hewitt, Peter Snipes, Kevin Lee, Adam Shinomiya, Michael Ceccarelli, Gabe Schwartz, Liam Connelly
+Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White, Andre Hance, Thomas Antle, Bailey Matrascia, Wesley Long, Maximillian Mandel, Abigail Waryanka, Gary Chen, Ryan Hilty, Kyrie Doniz, Mai Nguyen, Batmunkh Munkhjargal, Rachael Harris, Nate Angus, Paige Downey, Alexander Le Floch, Kiley Hewitt, Peter Snipes, Lex Caldwell, Nathan Loria, Kaung Myat Htet(KM), Linh Nguyen Mai, Kevin Lee, Adam Shinomiya, Michael Ceccarelli, Gabe Schwartz, Liam Connelly
+
