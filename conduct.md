@@ -255,4 +255,3 @@ Class member(s) may be reduced 10 percent of their final grade due to not follow
 ## Names of Individuals who Agree to Adhere to the Guide
 
 Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White, Andre Hance, Thomas Antle, Bailey Matrascia, Wesley Long, Maximillian Mandel, Abigail Waryanka, Gary Chen, Ryan Hilty, Kyrie Doniz, Mai Nguyen, Batmunkh Munkhjargal, Rachael Harris, Nate Angus, Paige Downey, Alexander Le Floch, Kiley Hewitt, Peter Snipes, Lex Caldwell, Nathan Loria, Kaung Myat Htet(KM), Linh Nguyen Mai, Kevin Lee, Adam Shinomiya, Michael Ceccarelli, Gabe Schwartz, Liam Connelly
-
