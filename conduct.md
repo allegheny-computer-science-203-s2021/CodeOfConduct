@@ -65,14 +65,15 @@ Allegheny's honor code for all submitted work.
 
 * Acceptable Conduct (A):
   * Members shall
-    * Watch the course website and Slack workspace for changes to due dates.
-    * Turn assignments in on time.
-    * Complete their work in a timely manner that will not negatively affect other group members.
+    * Turn assignments in on the due date; the only exception to this rule is if the student is excused by the professor.
+    * Keep track of the due dates of the assignments.
+    * Be able to give reasons for missing deadlines.
+    * Group work shall be turned in on time, with all group members agreeing on when the work is finished and ready to be turned in.
 
 * Unacceptable Conduct (U):
   * Members shall not
-    * Be dishonest about late assignments.
-    * Bargain for more time to complete assignments.
+    * Turn in work past the due date and time given.
+    * Turn work in without notifying teammates.
 
 #### Communication
 
@@ -253,6 +254,4 @@ Class member(s) may be reduced 10 percent of their final grade due to not follow
 
 ## Names of Individuals who Agree to Adhere to the Guide
 
-:heavy_exclamation_mark: TODO: Add your name
-
-Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White, Andre Hance, Thomas Antle, Bailey Matrascia, Wesley Long, Maximillian Mandel, Abigail Waryanka, Gary Chen, Ryan Hilty, Kyrie Doniz, Mai Nguyen, Batmunkh Munkhjargal, Rachael Harris, Nate Angus, Paige Downey, Alexander Le Floch, Kiley Hewitt, Peter Snipes, Lex Caldwell, Nathan Loria, Kaung Myat Htet(KM), Linh Nguyen Mai
+Janyl Jumadinova, Bennett Westfall, Zackery Devers, Natnael Kahesay, Kobe Coleman, Adriana Solis, Favour Ojo, Kai'lani Woodward, Zoe White, Andre Hance, Thomas Antle, Bailey Matrascia, Wesley Long, Maximillian Mandel, Abigail Waryanka, Gary Chen, Ryan Hilty, Kyrie Doniz, Mai Nguyen, Batmunkh Munkhjargal, Rachael Harris, Nate Angus, Paige Downey, Alexander Le Floch, Kiley Hewitt, Peter Snipes, Lex Caldwell, Nathan Loria, Kaung Myat Htet(KM), Linh Nguyen Mai, Kevin Lee, Adam Shinomiya, Michael Ceccarelli, Gabe Schwartz, Liam Connelly
