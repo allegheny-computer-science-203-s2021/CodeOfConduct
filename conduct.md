@@ -1,4 +1,4 @@
-# Conduct for Code of Conduct for CMPSC 201 Fall 2020
+# Conduct for Code of Conduct for CMPSC 203 Spring 2021
 
 ## Assessment Key
 
